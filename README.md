@@ -1,8 +1,3 @@
-std::cout "Hello, I’m @TheSystemGuy1337"
-I'm too lazy to write an actual user page.
-There are no easter eggs here. Go away
+Hi, I'm TheSystemGuy, I am a beginner C++ programmer and batch script expert (sorta)
 
-<!---
-TheSystemGuy1337/TheSystemGuy1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Need a batch script? Contact me! (No payment required. Battries not included)
